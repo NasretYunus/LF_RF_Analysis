@@ -1,0 +1,9 @@
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.7
+mne>=1.4
+statsmodels>=0.14
+jupyter>=1.0
+nbconvert>=7.0
+Pillow>=9.0
