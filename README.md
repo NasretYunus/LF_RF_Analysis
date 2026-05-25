@@ -27,7 +27,7 @@ Key Findings
 
 ```
 LF\_RF\_Analysis/
-├── LF\_RF\_Analysis\_Publication.ipynb   ← Main analysis notebook (19 cells)
+├── LF\_RF\_Analysis\_Publication.ipynb   ← Main analysis notebook 
 ├── requirements.txt                   ← Python dependencies
 ├── README.md
 │
@@ -41,20 +41,10 @@ LF\_RF\_Analysis/
 │   ├── participants\_center.csv
 │   └── participants\_last.csv
 │
-├── tables/                            ← Publication-ready tables + captions
-│   ├── Table1\_HRVBF\_Intervention.csv
-│   ├── Table2\_Control\_Passive.csv
-│   ├── Table3\_Wilcoxon\_within.csv
-│   ├── Table4\_MWU\_between.csv
-│   ├── Table5\_LMM\_fullsession.csv
-│   ├── Table6\_MultiEpoch.csv
-│   ├── Table7\_Sensitivity.csv
-│   └── \*\_caption.txt                  ← Caption text for each table
+│   
 │
-└── figures/
-    ├── png/    ← 600 dpi PNG (APB-compliant, 174mm max width)
-    ├── eps/    ← Vector EPS for typesetting
-    └── svg/    ← Vector SVG for editing
+└── figures/← 600 dpi PNG (174mm max width)
+    
 ```
 
 **Source data** (EDF and TXT physiological recordings) are deposited separately at:  
