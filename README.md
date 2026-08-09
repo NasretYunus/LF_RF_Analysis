@@ -136,7 +136,6 @@ If you use this code or data in your research, please cite:
   title   = {Resonance Frequency as a Temporally Evolving Cardiac State 
              During {HRV} Biofeedback: A Multi-Epoch Sliding-Window Analysis 
              with Passive Control in Cognitively Active Adolescent Novices},
-  journal = {Applied Psychophysiology and Biofeedback},
   year    = {2026},
   note    = {under review}
 }
